@@ -1,7 +1,12 @@
 Terminal codes:
 
+mkdir example
+
+cd example
+
 maturin init
 
 pyo3
 
-![image](https://github.com/user-attachments/assets/c9f0d6ab-947e-4560-af50-91f0061f9bb4)
+![image](https://github.com/user-attachments/assets/4b061c92-009b-42ad-a67c-4ce42bbed423)
+
