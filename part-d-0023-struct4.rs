@@ -16,3 +16,9 @@ struct Drink {
 fn make_drink(name: String, price: f32, size: char, hot: bool) -> Drink {
     Drink { name: name, price: price, size: size, hot: hot }
 }
+
+// short usage 
+
+// fn make_drink(name: String, price: f32, size: char, hot: bool) -> Drink {
+//     Drink { name, price, size, hot}
+// }
