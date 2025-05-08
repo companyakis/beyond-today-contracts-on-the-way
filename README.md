@@ -1,1 +1,1 @@
-# Rust for Web3
+# Full-stack Web3
